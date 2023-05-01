@@ -1,2 +1,3 @@
-# PROYECTO-ANDROID-DIEGO-F
-Mi primer proyecto Android
+# ActividadCursera
+primera actividad curso andriod studio
+actividad uno.

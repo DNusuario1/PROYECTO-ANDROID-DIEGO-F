@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActividadCursera</string>
+
+    <string name="ENTRAR">ENTRAR</string>
+    <string name="action_settings">Settings</string>
+    <string name="BIENVENIDOS">BIENVENIDOS</string>
+    
+</resources>
